@@ -7,3 +7,4 @@ Generate: Click the Generate Cloud button.
 Customize: (If applicable) Use the sliders to change the font scale or orientation of the words.
 
 Export: Right-click the generated image to save it to your device.
+
